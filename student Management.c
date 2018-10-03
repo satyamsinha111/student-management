@@ -514,3 +514,5 @@ int main()
     }
 	return 0;
 }
+//version 1 ends here 
+//thanks
